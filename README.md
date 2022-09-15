@@ -24,3 +24,10 @@ En composición y diseño estamos aprendiendo a diseñar imágenes compuestas de
 - Prof. Rodrigo Saco
 
 En proyecto semestral estamos desarrollando un juego comenzando con mécanicas simples y ocupando nuestros propios conocimientos.
+
+-------
+## Diseño de Videojuegos
+
+- Prof. Eduardo Guerrero
+
+En la clase de diseño de videojuegos estamos aprendiendo a trabajar con la documentación de los juegos que próximamente haremos, así como la creación de un juego sencillo para estudiar su diseño de niveles. 
