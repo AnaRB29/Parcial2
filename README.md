@@ -31,3 +31,10 @@ En proyecto semestral estamos desarrollando un juego comenzando con mécanicas s
 - Prof. Eduardo Guerrero
 
 En la clase de diseño de videojuegos estamos aprendiendo a trabajar con la documentación de los juegos que próximamente haremos, así como la creación de un juego sencillo para estudiar su diseño de niveles. 
+
+-------
+## Ingles
+
+- Profa. Carmen Luna
+
+En Ingles estamos prácticando ingles con ayuda de formas retóricas literarias basadas en la poesía
