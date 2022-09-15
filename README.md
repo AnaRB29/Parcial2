@@ -17,3 +17,10 @@ En sistemas operativos estamos aprendiendo como crear repositorios, como subir a
 - Prof. Roberto Melo
 
 En composición y diseño estamos aprendiendo a diseñar imágenes compuestas de otras imagenes con cierta coherencia para crear una edición de la misma imagen, tambien como repararlas y todos los componentes que tiene el diseño gráfico; todo esto con ayuda de la aplicación de photosop.
+
+-------
+## Proyecto Semestral II
+
+- Prof. Rodrigo Saco
+
+En proyecto semestral estamos desarrollando un juego comenzando con mécanicas simples y ocupando nuestros propios conocimientos.
